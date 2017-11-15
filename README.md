@@ -1,2 +1,0 @@
-# sus
-SUS Repository
